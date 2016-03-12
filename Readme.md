@@ -1,3 +1,3 @@
-# Welcome to cloudy
+# Clouds/Cows promo
 
-cloudy is a little promo for Jessie's show at the front. 
+A little web promo for Jessie's show this weekend 
